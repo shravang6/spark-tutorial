@@ -1,0 +1,75 @@
+format version: 5
+output mode:
+1 items
+0 -> multiple
+output directories:
+1 items
+C:\Users\SHRAVAN KUMAR\git\spark-tutorial\sparkprogram\src\test\java -> C:\Users\SHRAVAN KUMAR\git\spark-tutorial\sparkprogram\target\test-classes
+compile options:
+8 items
+0 -> -javabootclasspath
+1 -> C:\Program Files\Java\jre1.8.0_51\lib\resources.jar;C:\Program Files\Java\jre1.8.0_51\lib\rt.jar;C:\Program Files\Java\jre1.8.0_51\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_51\lib\jce.jar;C:\Program Files\Java\jre1.8.0_51\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_51\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_51\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jre1.8.0_51\lib\ext\cldrdata.jar;C:\Program Files\Java\jre1.8.0_51\lib\ext\dnsns.jar;C:\Program Files\Java\jre1.8.0_51\lib\ext\jaccess.jar;C:\Program Files\Java\jre1.8.0_51\lib\ext\jfxrt.jar;C:\Program Files\Java\jre1.8.0_51\lib\ext\localedata.jar;C:\Program Files\Java\jre1.8.0_51\lib\ext\nashorn.jar;C:\Program Files\Java\jre1.8.0_51\lib\ext\sunec.jar;C:\Program Files\Java\jre1.8.0_51\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jre1.8.0_51\lib\ext\sunmscapi.jar;C:\Program Files\Java\jre1.8.0_51\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jre1.8.0_51\lib\ext\zipfs.jar
+2 -> -javaextdirs
+3 ->  
+4 -> -bootclasspath
+5 -> C:\Users\SHRAVAN KUMAR\Downloads\scala-SDK-4.4.1-vfinal-2.11-win32.win32.x86_64\eclipse\plugins\org.scala-lang.scala-library_2.11.8.v20160304-115712-1706a37eb8.jar
+6 -> -encoding
+7 -> UTF-8
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> false
+products:
+0 items
+binary dependencies:
+0 items
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+0 items
+used names:
+0 items
+product stamps:
+0 items
+source stamps:
+1 items
+C:\Users\SHRAVAN KUMAR\git\spark-tutorial\sparkprogram\src\test\java\com\spark\program\sparkprogram\AppTest.java -> hash(cb481c283d51a02323eb85411eb2ff8fb0af5804)
+binary stamps:
+0 items
+class names:
+0 items
+internal apis:
+1 items
+C:\Users\SHRAVAN KUMAR\git\spark-tutorial\sparkprogram\src\test\java\com\spark\program\sparkprogram\AppTest.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC4IVHqAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV7Ghg3x1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+ABp4cHQASkM6XFVzZXJzXFNIUkFWQU4gS1VNQVJcZ2l0XHNwYXJrLXR1dG9yaWFsXHNwYXJrcHJvZ3JhbVx0YXJnZXRcdGVzdC1jbGFzc2VzdABEQzpcVXNlcnNcU0hSQVZBTiBLVU1BUlxnaXRcc3BhcmstdHV0b3JpYWxcc3Bhcmtwcm9ncmFtXHNyY1x0ZXN0XGphdmF1cgACW0Ks8xf4BghU4AIAAHhwAAAAFMtIHCg9UaAjI+uFQR6y/4+wr1gE
+external apis:
+0 items
+source infos:
+1 items
+C:\Users\SHRAVAN KUMAR\git\spark-tutorial\sparkprogram\src\test\java\com\spark\program\sparkprogram\AppTest.java -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV6xGipZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUM6XFVzZXJzXFNIUkFWQU4gS1VNQVJcd29ya3NwYWNlXHNwYXJrcHJvZ3JhbVx0YXJnZXRcdGVzdC1jbGFzc2VzdAA7QzpcVXNlcnNcU0hSQVZBTiBLVU1BUlx3b3Jrc3BhY2Vcc3Bhcmtwcm9ncmFtXHNyY1x0ZXN0XGphdmE=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV7Ghg3x1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXFNIUkFWQU4gS1VNQVJcZ2l0XHNwYXJrLXR1dG9yaWFsXHNwYXJrcHJvZ3JhbVx0YXJnZXRcdGVzdC1jbGFzc2VzdABEQzpcVXNlcnNcU0hSQVZBTiBLVU1BUlxnaXRcc3BhcmstdHV0b3JpYWxcc3Bhcmtwcm9ncmFtXHNyY1x0ZXN0XGphdmE=
